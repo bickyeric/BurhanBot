@@ -1,0 +1,8 @@
+Bantuan perintah:
+1. /gabung <id_kelas>
+	sldkfmd
+2. /tanya <pertanyaan>
+
+3. /cari <kata_kunci>
+
+4. /broadcast <pesan>
