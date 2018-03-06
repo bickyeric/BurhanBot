@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 sender_id = 0
 params = {
-		"access_token": "EAAEsAwadNEgBAKmrV5LxCBP1UCVQluvbcZBVfjB94qQjmO42FHgM9JVj5xKD3UGVtHqkbE7opgxNGK0fkkCYo9v42ZCitR5SDXlT0YGRc8G4Dodl6HGNWhnIDZBL3ZAZBNbMT1n2Yryb5gscxfFZArUrAo09LUagbZBoI5PLqx3kKJDZA8ivCpDM"
+		"access_token": <ACCESS_TOKEN>
 }
 headers = {
 	"Content-Type": "application/json"
